@@ -52,10 +52,10 @@
 
 ## 📊 GitHub Stats
 
-![Rafiur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight)
+![Rafiur's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight)
-s
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
