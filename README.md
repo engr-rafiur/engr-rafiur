@@ -13,8 +13,8 @@
 - 📈 Passionate about Data Analytics & Applied Research  
 - 🐍 Python, SQL, Power BI, Android (Java), Web Apps  
 - 📚 Published research on Computational Thinking  
-- 🏆 ICPC Asia Dhaka Contest (Honorable Mention)  
-- 🌱 Currently learning Data Visualization & Predictive Modeling  
+- 🏆 ICPC Asia Dhaka Contest
+- 🌱 Currently learning Data Science & Predictive Modeling  
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-orange)
+![C++](https://img.shields.io/badge/C++-orange)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ### Data & BI
@@ -47,14 +47,6 @@
 - 💡 IoT Motion Light System  
 - 📊 Sports Event Management Web App  
 - 📚 Ebook Library App  
-
----
-
-## 📊 GitHub Stats
-
-![Rafiur's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight)
 
 ---
 
