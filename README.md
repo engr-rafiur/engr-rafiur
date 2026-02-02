@@ -1,67 +1,67 @@
-👋 Hi, I’m Rafiur Rahman Shoishab
-🚀 Data Analyst | Full-Stack Developer | Research Enthusiast
+<div align="center">
 
-Computer Science graduate with hands-on experience in data analysis, Android development, web applications, and academic research.
-I enjoy turning raw data into insights and building practical solutions with clean design.
+# 👋 Hi, I'm Rafiur Rahman Shoishab  
+### 📊 Data Analyst | 💻 Full-Stack Developer | 🔬 Research Enthusiast
 
-🧠 About Me
+</div>
 
-📊 Interested in Data Analytics & Applied Research
+---
 
-💻 Experienced with Python, SQL, Power BI, Android (Java), Web Apps
+## 🧠 About Me
 
-🔬 Published research on Computational Thinking in Early Education
+- 🎓 Computer Science Graduate  
+- 📈 Passionate about Data Analytics & Applied Research  
+- 🐍 Python, SQL, Power BI, Android (Java), Web Apps  
+- 📚 Published research on Computational Thinking  
+- 🏆 ICPC Asia Dhaka Contest (Honorable Mention)  
+- 🌱 Currently learning Data Visualization & Predictive Modeling  
 
-🏆 ICPC Asia Dhaka Contest Participant (Honorable Mention)
+---
 
-🌱 Currently improving skills in Data Visualization & Predictive Modeling
+## 🛠 Tech Stack
 
-🛠 Tech Stack
-Languages
+### Programming
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
+### Data & BI
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+![Excel](https://img.shields.io/badge/Excel-green)
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![NumPy](https://img.shields.io/badge/NumPy-blue)
 
+### Web / Mobile
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![Android](https://img.shields.io/badge/Android-green)
 
+---
 
+## 📌 Featured Projects
 
+- 📱 University Info Android App  
+- 💡 IoT Motion Light System  
+- 📊 Sports Event Management Web App  
+- 📚 Ebook Library App  
 
+---
 
+## 📊 GitHub Stats
 
-Data & BI
+<img src="https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight"/>
 
-Pandas, NumPy
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight"/>
 
-Power BI, Tableau
+---
 
-Excel (Pivot Tables, VLOOKUP)
+## 📫 Connect With Me
 
-Descriptive Statistics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rsrafirahman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/engr-rafiur)
 
-Web / Mobile
-
-HTML, CSS, JavaScript
-
-Flutter
-
-Android (Java SDK)
-
-Tools
-
-Git & GitHub
-
-Postman
-
-Docker (Basic)
-<!--
-**engr-rafiur/engr-rafiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
