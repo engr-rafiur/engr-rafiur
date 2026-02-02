@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rafiur Rahman Shoishab  
+# I'm Rafiur Rahman Shoishab  
 ### 📊 Data Analyst | 💻 Full-Stack Developer | 🔬 Research Enthusiast
 
 </div>
@@ -52,9 +52,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
