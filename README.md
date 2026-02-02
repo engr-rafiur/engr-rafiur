@@ -52,13 +52,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=engr-rafiur&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight" />
-</p>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-rafiur&layout=compact&theme=tokyonight)
 
 ---
 
